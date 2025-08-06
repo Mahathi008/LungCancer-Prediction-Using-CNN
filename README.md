@@ -109,11 +109,3 @@ This project is licensed under the **MIT License**.
 
 **Mahathi Patel**
 GitHub: [mahathi](https://github.com/mahathi)
-
-```
-
----
-
-If you want, I can also make a **matching README** for your **IPL Winning Prediction** project so your GitHub has a consistent style across both.  
-Do you want me to do that next?
-```
