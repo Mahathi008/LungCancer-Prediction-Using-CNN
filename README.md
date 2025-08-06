@@ -1,8 +1,3 @@
-Here’s a **README.md** for your **Lung Cancer Detection using CNN (Streamlit)** project that you can directly add to your GitHub repository.
-
----
-
-```markdown
 # 🫁 Lung Cancer Detection using CNN
 
 A deep learning-based application for detecting lung cancer from CT scan images using **Convolutional Neural Networks (CNN)**.  
